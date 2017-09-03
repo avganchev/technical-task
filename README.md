@@ -23,3 +23,9 @@ every animal has such ability. There are several issues and we hope you'd solve 
 * php 7
 * Unit tests
 * docker environment
+
+## Run with Docker
+```docker run -it -p 5000:5000 --name zoo  ganchclub/amadeus-zoo```
+
+## Open
+```http://localhost:5000```
